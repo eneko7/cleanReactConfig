@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Root Root renders correctly 1`] = `
+<div
+  className="main_container"
+>
+  <footer
+    className="footer"
+  >
+    <span
+      className="footer_films"
+    >
+      FILMS
+    </span>
+    <span
+      className="footer_copyright"
+    >
+      Copyright ©
+      2018
+      FILMS.
+      <span
+        className="copyright_signature"
+      >
+        IHAR KARPUK
+      </span>
+    </span>
+  </footer>
+</div>
+`;

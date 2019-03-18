@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Footer renders correctly 1`] = `
+<footer
+  className="footer"
+>
+  <span
+    className="footer_films"
+  >
+    FILMS
+  </span>
+  <span
+    className="footer_copyright"
+  >
+    Copyright ©
+    2018
+    FILMS.
+    <Signature
+      name="IHAR KARPUK"
+    />
+  </span>
+</footer>
+`;
